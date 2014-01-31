@@ -2,7 +2,6 @@ import Tkinter
 from Tkinter import *
 import tkMessageBox
 import string
-print "Please leave this window open."
 
 def randf(seed):
 	newseed = seed # hehe
